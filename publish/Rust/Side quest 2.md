@@ -1,0 +1,1 @@
+This is the notepad for all of my ups and downs and even thoughts on practically learning with rustlings

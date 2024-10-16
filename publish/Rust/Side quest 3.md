@@ -1,0 +1,1 @@
+These are all my notes on learning haskell and what exactly haskell is??
